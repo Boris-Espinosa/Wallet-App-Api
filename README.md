@@ -8,6 +8,8 @@
 
 ## 🇬🇧 English
 
+> **📚 Bootcamp Project**: This project was developed as part of a React Native bootcamp to learn full-stack mobile application development.
+
 ### 📖 Description
 
 **Wallet App API** is a robust and scalable backend designed for digital wallet applications. It provides a complete RESTful API to manage user financial transactions, including categorization features, financial summaries, and intelligent rate limiting protection against abuse.
@@ -313,6 +315,8 @@ Boris Espinosa
 <a name="español"></a>
 
 ## 🇪🇸 Español
+
+> **📚 Proyecto de Bootcamp**: Este proyecto fue desarrollado como parte de un bootcamp de React Native para aprender desarrollo full-stack de aplicaciones móviles.
 
 ### 📖 Descripción
 
